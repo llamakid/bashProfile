@@ -1,2 +1,2 @@
 # bashProfile
-Bash profile i am using on my machine.
+The Bash profile I am currently using on my machine.
